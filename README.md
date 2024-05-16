@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![snake gif](https://github.com/genieu99/genieu99/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/genieu99/genieu99/blob/output/github-snake.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=genieu99&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genieu99&layout=compact)
