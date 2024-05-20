@@ -21,7 +21,7 @@ jobs:
         with:
           github_user_name: genieu99
           outputs: |
-            dist/github-snake.svg?color_snake=#FFC81E&color_dots=#D2E1FF,#C8D7FF,#ff97b2,#ff799c,#ff648c,#ff386b
+            dist/github-snake.svg?color_snake=#FFC81E&color_dots=#E8F5FF,#C8D7FF,#ff97b2,#ff799c,#ff648c,#ff386b
             dist/github-snake-dark.svg?color_snake=#FFC81E&color_dots=#DCEBFF,#C8D7FF,#AAB9FF,#B4C3FF,#AAB9FF,#86A5FF?palette=github-dark            
             
       - name: push github-contribution-grid-snake.svg to the output branch
