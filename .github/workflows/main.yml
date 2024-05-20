@@ -21,8 +21,8 @@ jobs:
         with:
           github_user_name: genieu99
           outputs: |
-            dist/github-snake.svg?color_snake=#FFC81E&color_dots=#EBF5FF,#CCE1FF,#AECDFF,#90AFFF,#5A5AFF,#00008C
-            dist/github-snake-dark.svg?color_snake=#FFC81E&color_dots=#EBF5FF,#CCE1FF,#AECDFF,#90AFFF,#5A5AFF,#00008C?palette=github-dark            
+            dist/github-snake.svg?color_snake=#FFC81E&color_dots=#EBF5FF,#CCE1FF,#AECDFF,#8C8CFF,#5A5AFF,#00008C
+            dist/github-snake-dark.svg?color_snake=#FFC81E&color_dots=#EBF5FF,#CCE1FF,#AECDFF,#8C8CFF,#5A5AFF,#00008C?palette=github-dark            
             
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4.0.0
